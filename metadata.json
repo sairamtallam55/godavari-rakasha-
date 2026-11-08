@@ -1,0 +1,6 @@
+{
+  "name": "Godavari Raksha",
+  "description": "AI-Powered Emergency Detection, Public Safety and Response Coordination Platform for Godavari Pushkaralu 2027 in Andhra Pradesh, India.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
